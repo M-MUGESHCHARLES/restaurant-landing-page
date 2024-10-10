@@ -1,2 +1,7 @@
 
 /node_modules
+.firebaserc
+/.github
+firebase-debug.log
+firebase.json
+build/index.html

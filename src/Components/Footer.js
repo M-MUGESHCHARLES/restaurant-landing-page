@@ -39,6 +39,7 @@ const Footer = () => {
           <span>Privacy Policy</span>
         </div>
       </div>
+      <h6>developed by MugeshManoharan</h6>
     </div>
   );
 };
