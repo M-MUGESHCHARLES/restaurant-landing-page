@@ -5,3 +5,5 @@
 firebase-debug.log
 firebase.json
 build/index.html
+/build
+/.firebase
